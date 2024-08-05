@@ -3,7 +3,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 120vh;
   margin: 0;
   background-color: #f4f5f7; 
 }
@@ -15,7 +14,6 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 400px;
-  height:130vh;
   text-align: center;
   border: 1px solid #e0e0e0; 
 }
